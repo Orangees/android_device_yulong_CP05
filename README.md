@@ -13,7 +13,7 @@
 * https://github.com/pjgowtham/recovery_device_xiaomi_pissarro
 * AOSP documentation
 
-## bugs
+## Bugs
 *system分区挂载有问题
 *adb无法正常连接
 *fastboots无法正常进入
