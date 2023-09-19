@@ -10,8 +10,8 @@
 
 ## References
 * https://github.com/momo54181/action_build_twrp_device_tree
-* AOSP documentation
 * https://github.com/pjgowtham/recovery_device_xiaomi_pissarro
+* AOSP documentation
 
 ## bugs
 *system分区挂载有问题
