@@ -14,6 +14,6 @@
 * AOSP documentation
 
 ## Bugs
-*system分区挂载有问题
-*adb无法正常连接
-*fastboots无法正常进入
+* system分区挂载有问题
+* mtp无法正常连接
+* fastbootd无法正常进入
